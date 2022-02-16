@@ -81,7 +81,7 @@ class Pantallas {
       texto=20;
     }
   }
-  //----------------------------------------BOTON DE INICIO--------------------------------
+  //------------------------------------BOTON DE VOLVER A INICIO----------------------------
   void clickVolver() {
     if (mousePressed  && texto==20 && mouseX > 50 && mouseX < 215 && mouseY > 490 && mouseY < 580) {
       imagen=0;
