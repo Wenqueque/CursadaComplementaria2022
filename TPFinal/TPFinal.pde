@@ -1,3 +1,11 @@
+/*
+Tecnología Multimedial 1, UNLP
+Cursada complementaria 2022
+Comisión 4, TP6 (Final)
+Alumna:Elea Sofia Carrillo, legajo (11886/9)
+Cuento: "La Reina de las Nieves", por Hans Christian Andersen
+*/
+
 Pantallas pantallas;
 Juego juego;
 
